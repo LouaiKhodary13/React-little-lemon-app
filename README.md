@@ -11,6 +11,8 @@
   - [Data Fetching](#data-fetching)
   - [Unit Testing](#unit-testing)
 
+- [Live-Demo](https://react-little-lemon-app.netlify.app/)
+
 ---
 
 # The Booking App
